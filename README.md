@@ -1,3 +1,3 @@
 # Real-time-face-recognization
 
-### hello
+The project is about recognizing the faces in the Webstreams,CCTV or Webcams 
